@@ -1,8 +1,6 @@
 [
   {
     "name": "PiHole",
-    "host: "https://192.168.10.11",
-    "port": 443
+    "host": "https://192.168.40.11/admin"
   }
-  
 ]
